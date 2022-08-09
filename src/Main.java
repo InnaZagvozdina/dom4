@@ -23,6 +23,10 @@ public class Main {
                System.out.println();
                 System.out.println("Сегодня пятница,  день "  +friday +"  необходимо подготовить отчет");
 
+                // Задание 3
+
+
+
 
             }
         }
